@@ -1,0 +1,14 @@
+git init - iniciar repositorio
+
+git clone - clonar um repositorio via ssh
+
+git status - verificar quais arquivos foram modificados
+
+git add - adicionar as mudanças 
+
+git commit - enviar as novas alterações para o repositório 
+
+git push - subir as mudançar para o repositorio
+
+git pull - baixar as mudançar para o repositorio local 
+
